@@ -25,7 +25,7 @@ OnlineTextEditor is a powerful web-based text editor that empowers users to crea
    git clone https://ashish-makes.github.io/text-editor/
 2. Navigate to the repository directory::
    ```bash
-   cd OnlineTextEditor
+   cd text-editor
 3. Open the 'index.html' file in your preferred web browser.
 
 ## Contributing
@@ -34,7 +34,7 @@ We welcome contributions that enhance the text editing experience! To contribute
 1. Fork this repository.
 2. Create a new branch for your feature or bug fix:
    ```bash
-   cd OnlineTextEditor
+   cd text-editor
 3. Open the 'index.html' file in your preferred web browser.
    ```bash
    git commit -m "Add a concise description of your changes"
