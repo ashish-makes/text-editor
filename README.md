@@ -2,7 +2,7 @@
 
 OnlineTextEditor is a powerful web-based text editor that empowers users to create and edit documents with a variety of formatting options, all within their browser. This editor is built using HTML, CSS, and JavaScript to provide a seamless and user-friendly editing experience.
 
-![image](https://github.com/ashish-makes/text-editor/assets/106135144/c07f60d2-2f6c-4a58-999a-a627334b6e3b)
+![534shots_so (1)](https://github.com/ashish-makes/text-editor/assets/106135144/5dfb4cb7-8742-4861-8d2a-1e64b97523fe)
 
 ## Features
 
