@@ -22,7 +22,7 @@ OnlineTextEditor is a powerful web-based text editor that empowers users to crea
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://ashish-makes.github.io/text-editor/
+   git clone https://github.com/ashish-makes/text-editor
 2. Navigate to the repository directory::
    ```bash
    cd text-editor
