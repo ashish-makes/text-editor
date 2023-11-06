@@ -1,4 +1,4 @@
-# OnlineTextEditor - Rich Text Editing Made Easy (CodeClause Internship Project)
+# OnlineTextEditor - Rich Text Editing Made Easy
 
 OnlineTextEditor is a powerful web-based text editor that empowers users to create and edit documents with a variety of formatting options, all within their browser. This editor is built using HTML, CSS, and JavaScript to provide a seamless and user-friendly editing experience.
 
@@ -43,6 +43,3 @@ We welcome contributions that enhance the text editing experience! To contribute
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-We extend our gratitude to the open-source community and CodeClause for their valuable resources and inspiration. This project was created to simplify and enhance the text editing process for users everywhere.
